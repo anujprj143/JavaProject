@@ -1,2 +1,2 @@
 # JavaProject
-A simple RetaiEncore model for shoping.
+A simple RetaiEncore model for shoping Store.
